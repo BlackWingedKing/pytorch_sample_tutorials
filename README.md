@@ -1,5 +1,5 @@
 # pytorch_sample_tutorials
-some tutorials by me for teaching pytorch
+some tutorials by me - teaching pytorch to [pravinraut](https://github.com/pravinraut)
 #### WIP - This repository and readme will be updated as my classes with my friend continue 
 ### What is Pytorch
 [pytorch](https://pytorch.org/) is a framework for rapid development and deployment of Machine learning algorithms. It is inspired from the [torch](http://torch.ch/) which is built on lua. Pytorch is a python wrapper for a library built on C++ and CUDA. 
