@@ -8,5 +8,5 @@ some tutorials by me for teaching pytorch
 - for windows users first install anaconda (It's preffered to use this pip also works too) by following this tutorial [here](https://www.datacamp.com/community/tutorials/installing-anaconda-windows) and then from [here](https://pytorch.org/get-started/locally/) get the conda command and run it in anaconda prompt
 ### Basic tutorials and flow
 The best source for learning pytorch is the official [tutorials](https://pytorch.org/tutorials/)
-- Complete the 60 min blitz
-- 03/08/2020 - the code simple_network.py generates random data using numpy and trains a classifier over it 
+- Completed the 60 min blitz
+- 03/08/2020 - the code simple_network.py generates random data using numpy and trains a classifier over it
