@@ -9,5 +9,5 @@ some tutorials by me - teaching pytorch to [pravinraut](https://github.com/pravi
 - [VSCode Editor](https://code.visualstudio.com/) is preferred. Also install useful extensions and enable pylinting
 ### Basic tutorials and flow
 The best source for learning pytorch is the official [tutorials](https://pytorch.org/tutorials/)
-- Completed the 60 min blitz
+- Complete the 60 min blitz
 - 03/08/2020 - the code simple_network.py generates random data using numpy and trains a classifier over it
